@@ -23,5 +23,9 @@
 ---
 
 #### 1）后台
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/20190902230200.png)
+   
+   
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/20190902230239.png)
 
 
