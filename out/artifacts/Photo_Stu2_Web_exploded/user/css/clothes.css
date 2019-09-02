@@ -1,0 +1,159 @@
+body{
+    background-color: rgba(207, 191, 191, 0.329);
+}
+*{
+    box-sizing: border-box;
+}
+.header .tb .nav ul li:nth-child(3) a{
+    border-bottom: solid 3px black;
+}
+ .cen{
+    width: 95%;
+    margin: 0 auto;
+    overflow: hidden;
+    /* background-color: red; */
+
+}
+/* 左边 */
+.cen .clo{
+    width: 75%;
+    float: left;
+    overflow: hidden;
+    border-right: 1px solid #ccc;
+}
+
+.cen .clo ul{
+    list-style: none;
+    margin: 5px;
+    overflow: hidden;
+}
+.cen .clo ul li{
+    float: left;
+    width: 320px;
+    height: 420px;
+    margin: 5px;
+   /*  border: 1px solid #00aca8; */ 
+    background-color: white;
+}
+
+.cen .clo ul .yf{
+    width: 280px;
+    height: 340px;
+    color: #1a1010;
+}
+.cen .clo ul .yf p{
+    font-size: 14px;
+    /* padding: 0 10px; */
+    margin: 5px 0;
+    margin-left: 20px;
+    width: 140px;
+   /*  background-color: yellow; */
+}
+.cen .clo ul .yf .pr{
+    font-size: 14px;
+}
+.cen .clo ul .yf img{
+    height: 350px;
+    display: block;
+    margin-left: 20px;
+    margin-top: 10px;
+} 
+.cen .clo ul a{
+    width: 90px;
+    height: 28px;
+    color: black;
+    background-color: #f33646;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 14px;
+    float: right;
+    margin: 15px 1px 0px 40px;
+    text-align: center;
+    line-height: 28px;
+
+}
+
+
+/* 右边 */
+.cen .zk{
+    width: 25%;
+    float: right;
+    background-color: white;
+   
+}
+.cen .zk h3{
+    font-size: 25px;
+    margin: 10px 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cen .zk .comment{
+    margin: 20px;
+    /* width: 100%; */
+    /* height: 200px; */
+    overflow: hidden;
+    background-color: rgba(160, 223, 241, 0.33);
+
+}
+.cen .zk .comment .lef{
+    float: left;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 10%;
+    margin-top: 20px;
+}
+.cen .zk .comment .rig{
+    float: right;
+    width: 90%;
+}
+.cen .zk .comment .rig p{
+    margin: 10px 10px;
+    color: black;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cen .zk .comment .rig .date{
+    float: right;
+}
+
+
+.zk .smon{
+    margin-left: 20px;
+    display: none;
+}
+
+.zk .smon textarea{
+    border: #00aca8 1px solid;
+}
+
+.zk .publish{
+    width: 90px;
+    height: 30px;
+    background-color: #00aca8;
+    border: #1a1010 1px solid;
+    border-radius: 10px;
+    float: right;
+    line-height: 30px;
+    margin: 15px 10px 100px 0px;
+    text-align: center;
+    display: none;
+
+}
+.zk .say{
+    width: 90px;
+    height: 30px;
+    background-color: #00aca8;
+    border: #1a1010 1px solid;
+    border-radius: 10px;
+    float: right;
+    line-height: 30px;
+    margin: 15px 10px 100px 0px;
+    text-align: center;
+}
+
+
+
+
+
+
+

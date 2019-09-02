@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(207, 191, 191, 0.329);
+}
+.header .tb .nav ul li:nth-child(2) a{
+    border-bottom: solid 3px black;
+}
+.cent{
+    /* background-color: rgba(230, 176, 16,0.9); */
+    width: 80%;
+    /* height: 600px; */
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+.cent .left{
+    width: 70%;
+    float: left;
+    border-right: 2px solid #ccc;
+    overflow: hidden;
+}
+.cent .left ul{
+    overflow: hidden;
+}
+.cent .left .case{
+    border: 2px solid #ccc;
+    /* width: 90%; */
+    height: 200px;
+    margin: 20px 20px;
+    background-color: white;
+}
+.cent .left .case .tp{
+    width: 50%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+}
+.cent .left .case .tp a img{
+    /* width: 100%; */
+    height: 180px;
+}
+.cent .left .case .bt{
+    float: right;
+    width: 45%;
+    height: 200px;
+    margin-top: 13px;
+}
+.cent .left .case .bt .bty{
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+.cent .left .case .bt .pri{
+    margin: 15px 0px;
+}
+.cent .left .case .bt .pri a{
+    margin: 0;
+    float: none;
+}
+.cent .left .case .bt .pri a:hover{
+    text-decoration: underline;
+}
+.cent .left .case .bt .order a{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(238, 74, 74);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    float: left;
+}
+.cent .left .case .bt .order a span{
+    line-height: 30px;
+    margin-left: 10px;
+    color: black;
+}
+
+.cent .right{
+    width: 30%;
+    float: right;
+}
+.cent .right .bt{
+    font-size: 20px;
+    margin:10px 20px 10px 20px;
+}
+.cent .right .xbt{
+    font-size: 17px;
+    margin:10px 20px 10px 25px;
+    color: rgb(201, 108, 33);
+}
+.cent .right li{
+    font-size: 13px;
+    margin:10px 20px 10px 40px;
+    list-style: disc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

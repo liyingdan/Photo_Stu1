@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(207, 191, 191, 0.329);
+}
+*{
+    box-sizing: border-box;
+}
+.header .tb .nav ul li:nth-child(2) a{
+    border-bottom: solid 3px black;
+}
+.cent{
+    width: 70%;
+    height: 500px;
+    margin: 0 auto;
+
+}
+.cent .left{
+    width: 80%;
+    height: 500px;
+    background-color: rgba(176, 230, 207, 0.9);
+    float: left;
+    border-right: 2px solid #ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cent .right{
+    width: 20%;
+    height: 500px;
+    background-color: rgba(121, 186, 206, 0.7);
+    float: right;
+}

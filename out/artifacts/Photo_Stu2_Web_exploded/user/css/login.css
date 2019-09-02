@@ -1,0 +1,145 @@
+html{color:#000;background:#FFF}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}
+ol,ul{list-style:none}
+caption,th{text-align:left}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+q:before,q:after{content:''}
+abbr,acronym{border:0;font-variant:normal}
+sup{vertical-align:text-top}
+sub{vertical-align:text-bottom}
+input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;*font-size:100%}
+legend{color:#000}#yui3-css-stamp.cssreset{display:none}
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(206, 226, 253, 0.5);
+
+}
+.nav{
+    width: 70%;
+    height: 60px;
+    margin: 0 auto;
+}
+.header{
+    width: 100%;
+    height: 60px;
+}
+.header .nr{
+    height: 60px;
+    width: 100%;
+    background-color: #64aed7;
+    position: fixed;
+}
+.header .nav .left p{
+    font-size: 30px;
+    line-height: 60px;
+    float: left;
+}
+.header .nav .right a{
+    line-height: 60px;
+}
+/* 中部 */
+.login_body{
+    height: 700px;
+    
+}
+.login_body .login_b_center{
+    width: 1300px;
+    height: 650px;
+    margin: 30px auto;
+    position: relative;
+    background-image: url("../images/397.jpg");
+    background-size: cover;
+    border-radius: 20%;
+}
+.login_body .login_b_center .login_bg{
+    width: 400px;
+    height: 400px;
+    background: rgba(162, 196, 224, 0.8);
+    /*background-color: #00aca8;*/
+    margin-left: 850px;
+    position: absolute;
+    right: 10px;
+    top: 120px;
+    padding: 30px;
+    border-radius: 20%;
+}
+#login div{
+    height: 40px;
+    margin-top: 15px;
+}
+#login span{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    float: left;
+}
+#login .userName span{
+    background-image: url("../images/userName_Icon.png");
+}
+#login .password span{
+    background-image: url("../images/password_Icon.png");
+    background-position: center center;
+}
+#login input{
+    width: 250px;
+    height: 40px;
+    float: left;
+    border: 1px #ccc solid;
+    
+}
+#login .login_btn input{
+    background-color: #64aed7;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    width: 300px;
+    font-size: 20px;
+}
+#login .forgot_pwd{
+    text-align: right;
+    margin-top: 20px;
+    /* background-color: red; */
+}
+a{
+   text-decoration: none; 
+}
+#login .check_box span{
+    width: 65px;
+    margin-top: 10px;
+}
+#login .check_box input{
+    width: 140px;
+}
+#login .check_box img{
+    width: 100px;
+}
+
+/* #login .iden input{
+    width: 17px;
+    margin-left: 20px;
+}
+#login .iden span{
+    width: 80px;
+    margin: 7px 3px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

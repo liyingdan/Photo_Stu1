@@ -1,0 +1,238 @@
+.bread_crumb{
+    height: 44px;
+    background: #f5f5f5;
+}
+.bread_crumb .bread_center{
+    width: 1200px;
+    margin: 0 auto;
+    height: 44px;
+    line-height: 44px;
+}
+
+.bread_crumb .bread_center a{
+    color: black;
+    float: left;
+}
+.detail{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 10px;
+}
+.detail .detail_img{
+    width: 470px;
+    height: 440px;
+    flex: 1;
+    border:1px solid #ccc;
+}
+.detail .detail_img img{
+     width: 470px;
+    height: 440px;
+}
+.detail .detail_price{
+    width: 700px;
+    height: 400px;
+    background: rgba(160, 223, 241, 0.33);
+    flex: 2;
+    padding: 20px;
+    margin-left: 30px;
+}
+.detail .detail_price h3{
+    font-size: 27px;
+    color: black;
+}
+.detail .detail_price .goods_price{
+    width: 70%;
+    height: 60px;
+    background: #f5f5f5;
+    padding: 10px;
+    margin-top: 20px;
+ 
+}
+detail .detail_price .goods_price p{
+    font-size: 23px;
+
+}
+
+.detail .detail_price .goods_price .ori_price{
+    font-size: 15px;
+    color: #666;
+    position: relative;
+}
+.detail .detail_price em{
+    width: 60px;
+    height: 1px;
+    background: #000;
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+.yuan{
+    font-size: 14px;
+    color: #ff4400;
+}
+.price{
+    color: #ff4400;
+    font-size: 16px;
+    font-weight: normal;
+}
+.detail .goods_count{
+    margin-top: 20px;
+    margin-left: 5px;
+    font-size: 15px;    
+}
+.detail .goods_count input{
+    border: 1px solid #ccc;
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+
+.detail .goods_buy{
+    /* background-color: red; */
+    margin-top: 35px;
+    /* width: 500px; */
+}
+.detail .goods_buy input{
+    padding: 10px 20px;
+    background: #ff4400;
+    color: white;
+    border-radius: 6px;
+    font-size: 15px;
+
+}
+
+
+
+
+.purchase{
+    width: 1000px;
+    height: 450px;
+    margin: 0 auto;
+    background-color: white;
+    border: #ccc solid 3px;
+    border-radius: 10px;
+    overflow: hidden;
+    display: none;
+    position: absolute;
+    top: 400px;
+    left: 240px;
+    
+}
+.purchase p{
+    margin:10px 0px;
+    font-size: 16px;
+}
+.purchase .left{
+    width: 48%;
+    height: 100%;
+    margin: 20px 0px;
+    padding-left: 20px;
+    float:left;
+    border-right: #ccc solid 1px;
+}
+.purchase .left .sjxx{
+    background-color: #fff;
+    width: 100%;
+    height: 210px;
+}
+.purchase .left .sjxx .le{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.purchase .left .sjxx .le img{
+    width: 200px;
+    height: 200px;
+}
+.purchase .left .sjxx .ri{
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+.purchase .left .sjxx .ri .addr{
+    font-size: 13px;
+    color: #999;
+}
+.purchase .left .gi p{
+    display: inline-block;
+    color:#f33646;
+}
+.purchase .left .gi .ft{
+    font-size: 17px;
+    background-color: #f33646;
+    color: white;
+}
+.purchase .right{
+    width: 45%;
+    height: 100%;
+    margin-top: 20px;
+    padding-left:20px;
+    float:right;
+}
+.purchase .right h3{
+    font-size: 20px;
+
+}
+.purchase .right .order{
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+}
+.purchase .right .order span{
+    display: inline-block;
+    line-height: 30px;
+}
+.purchase .right .order input{
+    height: 25px;
+    border: 1px solid #ccc;
+}
+.purchase .right .buy{
+    width: 280px;
+    height: 35px;
+    margin-top: 10px;
+    background-color: #f33646;
+}
+.purchase .right .infor{
+    color: #999;
+    margin: 20px 0;
+}
+.introduce{
+    width: 1200px;
+    min-height:300px;/* �������Զ����ռ䣬��С�߶���300px */
+    margin: 20px  auto;
+}
+.introduce h3{
+    font-size: 15px;
+    font-weight: bold;
+    background: #ccc;
+    height: 44px;
+    line-height: 44px;
+    padding-left: 15px;
+}
+#close{
+    position: relative;
+   left: 455px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

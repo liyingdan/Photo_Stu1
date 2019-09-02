@@ -1,0 +1,60 @@
+@charset "UTF-8";
+body{
+    background-color: white;
+}
+.main_top{
+    border: 1px solid #ECECEC;
+    background-color: white;
+    margin: 10px;
+}
+
+.main_top .am-cf .am{
+    margin: 25px;
+}
+
+.goods_list{
+	background-color: white;
+	margin: 10px;
+	border: 1px solid #ECECEC;
+	padding: 15px 10px 5px 10px;
+	height: 500px;
+}
+.goods_list table{
+    border: 1px solid #ECECEC;
+	 
+}
+table a img{
+    width: 20px;
+	height: 20px;
+}
+.delete img{
+	width: 20px;
+	height: 20px;
+}
+/* .goods_list table tr{
+    border: 1px solid black;
+} */
+.goods_list table tr:nth-child(1){
+    height: 50px;
+}
+.goods_list table tr td{
+    border: 1px solid #ECECEC;
+    padding: 10px;
+    /* text-aline: center; */
+    margin: 0 auto;
+}
+.goods_list table tr td:nth-child(1){
+    width: 100px;
+}
+.goods_list table tr td:nth-child(2){
+    width: 200px;
+}
+.goods_list table tr td:nth-child(3){
+    width: 500px;
+}
+.goods_list table tr td:nth-child(4){
+    width: 200px;
+}
+.goods_list table tr td:nth-child(5){
+    width: 100px;
+}
