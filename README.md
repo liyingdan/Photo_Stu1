@@ -12,13 +12,13 @@
    
    
 ###### 首页
-![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/pic1.jpg)
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/picc1.jpg)
    
    
-![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/pic2.jpg)
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/picc2.jpg)
    
    
-![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/pic3.jpg)
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/picc3.jpg)
    
    
 ![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/pic4.jpg)
