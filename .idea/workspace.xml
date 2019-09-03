@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a8ff1a-97a7-4039-864b-f1b592064b66" name="Default Changelist" comment="" />
+    <list default="true" id="d7a8ff1a-97a7-4039-864b-f1b592064b66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build/classes/Dao/ComDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Dao/ComDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/domian/comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/domian/comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Photo_Stu2_Web_exploded/WEB-INF/classes/Dao/ComDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Photo_Stu2_Web_exploded/WEB-INF/classes/Dao/ComDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Photo_Stu2_Web_exploded/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Photo_Stu2_Web_exploded/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Photo_Stu2_Web_exploded/WEB-INF/classes/domian/comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Photo_Stu2_Web_exploded/WEB-INF/classes/domian/comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domian/comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domian/comment.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,21 +30,22 @@
     <session id="1099039819">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.95" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="JPG" value="1" />
+          <entry key="JPG" value="2" />
           <entry key="class" value="1" />
-          <entry key="java" value="31" />
-          <entry key="jpg" value="47" />
+          <entry key="java" value="32" />
+          <entry key="jpg" value="52" />
           <entry key="jsp" value="1" />
           <entry key="png" value="4" />
           <entry key="properties" value="3" />
@@ -45,8 +55,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="Image" value="52" />
-          <entry key="JAVA" value="31" />
+          <entry key="Image" value="58" />
+          <entry key="JAVA" value="32" />
           <entry key="JSP" value="1" />
           <entry key="Properties" value="3" />
           <entry key="XML" value="1" />
@@ -54,36 +64,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="5" />
+          <entry key="properties" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="5" />
+          <entry key="Properties" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/user/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/servlet/LoginServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/service/LoginService.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,16 +96,58 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/db.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="125">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/user/images/13 (12).JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/user/images/397.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/user/images/555.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/user/images/5744.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/user/images/combos/4d.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/user/images/combos/12.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/domian/comment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -119,6 +155,8 @@
         <option value="$PROJECT_DIR$/src/domian/picturefile.java" />
         <option value="$PROJECT_DIR$/src/domian/picture.java" />
         <option value="$PROJECT_DIR$/src/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/db.properties" />
+        <option value="$PROJECT_DIR$/src/domian/comment.java" />
       </list>
     </option>
   </component>
@@ -138,11 +176,13 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="920" />
-    <option name="width" value="985" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1000" />
+    <option name="y" value="250" />
+    <option name="width" value="789" />
+    <option name="height" value="834" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,6 +190,7 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,6 +202,12 @@
               <item name="Photo_Stu2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Photo_Stu2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Photo_Stu2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Photo_Stu2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="domian" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Photo_Stu2" type="b2602c69:ProjectViewProjectNode" />
@@ -180,6 +227,27 @@
             </path>
             <path>
               <item name="Photo_Stu2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Photo_Stu2" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Photo_Stu2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Photo_Stu2" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Photo_Stu2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Photo_Stu2" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="combos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Photo_Stu2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -187,7 +255,6 @@
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,17 +411,18 @@
       <workItem from="1562052325624" duration="2477000" />
       <workItem from="1562054962279" duration="1675000" />
       <workItem from="1565333243586" duration="2637000" />
-      <workItem from="1567431163957" duration="712000" />
+      <workItem from="1567431163957" duration="3518000" />
+      <workItem from="1567476351082" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8679000" />
+    <option name="totallyTimeSpent" value="12114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.20174263" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.20442359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.5021097" side_tool="true" weight="0.25" />
@@ -377,8 +445,8 @@
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="JRebel Executor" order="15" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -398,13 +466,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/domian/admin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/domian/clothes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -445,9 +506,6 @@
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/1.jpg" />
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/4.jpg" />
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/5.jpg" />
-    <entry file="file://$PROJECT_DIR$/WebContent/user/images/13 (12).JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/019_b.jpg" />
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/2521.jpg" />
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/235785.jpg" />
@@ -475,12 +533,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/timgS5HASJH6.jpg" />
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/TB2o.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/user/images/397.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/user/images/555.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/bj1.jpg">
@@ -511,9 +563,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/picture/5744.jpg" />
-    <entry file="file://$PROJECT_DIR$/WebContent/user/images/combos/12.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/clothes/c1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -531,12 +580,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/user/images/combos/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/user/images/combos/4d.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/user/images/5744.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-dbutils-1.4.jar!/org/apache/commons/dbutils/handlers/BeanHandler.class">
@@ -576,8 +619,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/db.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/user/images/13 (12).JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/user/images/397.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/user/images/555.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/user/images/5744.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/user/images/combos/4d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/user/images/combos/12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/domian/comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
