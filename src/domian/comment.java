@@ -11,6 +11,7 @@ public class comment {
 	private String username;
 	private String ccom;
 	private Date cdate;
+
 	@Override
 	public String toString() {
 		return "comment [cid=" + cid + ", username=" + username + ", ccom=" + ccom + ", cdate=" + cdate + "]";
