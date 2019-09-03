@@ -12,14 +12,16 @@
    
    
 ###### 首页
-![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/20190902231145.png)
-![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/20190902231157.png)
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/pic4.jpg)
    
    
-![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/20190902231209.png)
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/pic4.jpg)
    
    
-![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/20190902231234.png)
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/pic4.jpg)
+   
+   
+![图片描述](https://github.com/liyingdan/Photo_Stu1/blob/master/imageeeeeeeeeeeeee/pic4.jpg)
 ---
 
 #### 1）后台
